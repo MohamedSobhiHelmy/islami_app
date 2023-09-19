@@ -36,7 +36,7 @@ class _SuraDetailsScreenState extends State<SuraDetailsScreen> {
         body: Padding(
           padding: const EdgeInsets.all(8.0),
           child: Card(
-            elevation: 13.0,
+            elevation: 14.0,
             shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(18),
                 side: BorderSide(color: MyThemeData.primaryColor)),
