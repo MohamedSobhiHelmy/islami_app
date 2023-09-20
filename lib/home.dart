@@ -68,9 +68,9 @@ class _HomeScreenState extends State<HomeScreen> {
 
   List<Widget> tabs = [
     QuranTab(),
-    AhadethTab(),
     SebhaTab(),
     RadioTab(),
+    AhadethTab(),
     SettingsTab()
   ];
 }
